@@ -5,7 +5,8 @@ The code in this project is based on the MKR paper taken from https://github.com
 
 To run the original paper code please follow the instruction in the above git repository. 
 
-To run our code, you should clone this repository and run the main file. 
+To run our code, you should clone this repository and run the main file in the src folder. 
+Please note that you are only running one dataset at a time. To change the dataset you should change the DATASET variable to be one of the follwings: ["movies", "book", "music"]. 
 
 MKR original paper ([arXiv](https://arxiv.org/abs/1901.08907)):
 
